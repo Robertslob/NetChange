@@ -1,1 +1,6 @@
 c:\users\robert slob\documents\visual studio 2015\Projects\NetChange\NetChange\bin\Debug\NetChange.exe.config
+c:\users\robert slob\documents\visual studio 2015\Projects\NetChange\NetChange\bin\Debug\NetChange.exe
+c:\users\robert slob\documents\visual studio 2015\Projects\NetChange\NetChange\bin\Debug\NetChange.pdb
+c:\users\robert slob\documents\visual studio 2015\Projects\NetChange\NetChange\obj\Debug\NetChange.csprojResolveAssemblyReference.cache
+c:\users\robert slob\documents\visual studio 2015\Projects\NetChange\NetChange\obj\Debug\NetChange.exe
+c:\users\robert slob\documents\visual studio 2015\Projects\NetChange\NetChange\obj\Debug\NetChange.pdb
